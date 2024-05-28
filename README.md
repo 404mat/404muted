@@ -2,7 +2,7 @@
 
 A simple and minimal Visual Studio Code Theme to code without distractions. Based on ["Do You Even Dev,  Bro?"](https://vscodethemes.com/e/hmseeb.seeb/do-you-even-dev-bro) .
 
-![theme preview](demo-screenshot-rounded.png)
+![theme preview](assets/demo-screenshot-rounded.png)
 
 ## Installation
 
