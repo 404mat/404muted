@@ -9,6 +9,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Rounded theme icon
+- Improved README image
+
+### Fixed
+
+- Wrong image was in the README presentation
+
+## [0.0.4] - 2024-05-28
+
+### Added
+
 - Theme icon
 - Licence
 - Improved README file with images
