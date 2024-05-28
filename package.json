@@ -1,0 +1,26 @@
+{
+  "name": "404muted",
+  "displayName": "404 - Muted",
+  "description": "Muted theme for VSCode.",
+  "version": "0.0.1",
+  "publisher": "404mat",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/vscode-wordcount.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "404 - Muted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/404 Muted-color-theme.json"
+      }
+    ]
+  }
+}
