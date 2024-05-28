@@ -2,8 +2,9 @@
   "name": "404muted",
   "displayName": "404 - Muted",
   "description": "Muted theme for VSCode.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "404mat",
+  "icon": "assets/logo-1.png",
   "pricing": "Free",
   "license": "SEE LICENSE IN LICENSE.txt",
   "author": {
@@ -19,6 +20,7 @@
   "categories": [
     "Themes"
   ],
+  "keywords": ["muted", "404", "dark", "minimal"],
   "contributes": {
     "themes": [
       {

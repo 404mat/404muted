@@ -1,16 +1,14 @@
-# 404muted README
+# 404 Muted
 
-## Working with Markdown
+A simple and minimal Visual Studio Code Theme to code without distractions. Based on ["Do You Even Dev,  Bro?"](https://vscodethemes.com/e/hmseeb.seeb/do-you-even-dev-bro) .
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![theme preview](assets/logo-1.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation
 
-## For more information
+You can get this theme directly from the VS Code marketplace : [404 - Muted](https://marketplace.visualstudio.com/items?itemName=404mat.404muted).
+Alternatively, you can clone the project and package it yourself using `vsce` in your terminal. For more on this method, read the instructions on [Microsoft's website](https://code.visualstudio.com/api/working-with-extensions/publishing-extension).
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## For a better experience
 
-**Enjoy!**
+You can use [these settings](https://github.com/404mat/setup-vscode) if you want to replicate a better experience whe nusing VSCode.
